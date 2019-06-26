@@ -54,17 +54,17 @@ That's cool but... how do I make my second pull request?
 
 This repo was to get you comfortable with forking, pull requests, and contributing to a stranger's repo. Now that you've done it once, you have an idea of what needs to be done for your second pull request. That one will probably involve more complex changes. 
 
-Here are some resources for open source beginners: 
+# resources for open source beginners: 
 
-Using github labels to find opportunities: 
+## Using github labels to find opportunities: 
 
 Many open source projects use github labels to find developers to contribute to their projects. By knowing which labels to search, you can find projects that actively welcome contributors.
 
 For beginners: #first-timers-only 
 
-Recommended projects: 
+## Recommended projects: 
 
-Non-code: 
+### Non-code: 
 
 https://github.com/defmethodinc/just-not-sorry 
 
@@ -72,10 +72,10 @@ https://github.com/jenniferlynparsons/selfcaretech
 
 https://github.com/jwithington/100-days-of-healthing
 
-Code: 
+### Code: 
 
 https://github.com/communitytechnology/communitytechnology.github.io
 http://www.womenhackfornonprofits.com/projects.html
 
-Additional resources: 
+### Additional resources: 
 https://github.com/opensourcediversity/opensourcediversity.org
