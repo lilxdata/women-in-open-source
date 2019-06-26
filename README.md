@@ -1,11 +1,14 @@
 # women-in-open-source
 
+# the problem (& the solution)
+
 You've probably heard the statistics about women being underrepresented in technology. Numbers like "25%" or "28%" get thrown around when asked about gender breakdowns in tech companies and Computer science education programs. Unfortunately, the percentage of contributions from women in open source is oftentimes even lower than that. 
 
 The good news is..  we can change that! Every contribution by a woman or non-binary coder onto Github will increase the number of contributions. So all women and nonbinary people have the power to increase those numbers by simply writing more code <3. 
 
 Now, that's easier said than done. Especially if you've never contributed to an open source project before, or if you are new to Github or coding. This repo will help you create an open source contribution in less than ten minutes. Ready?
 
+# set up 
 Before you begin you should have the following:
 1. A github account and git set up on your computer
 2. An understanding of open source
@@ -13,7 +16,7 @@ Before you begin you should have the following:
 
 You do *not* need any coding experience! 
 
-Let's begin.
+# let's do it
 
 1. Fork this repo and clone it onto your computer
 In the top right of the page, there is a button that says "Fork." This will copy the repository onto your github profile. Don't worry if you don't know what this language means! You can follow the full instructions here (complete with photos)
@@ -46,6 +49,7 @@ Type "git push origin babys-first-branch"
 
 Now you've made your first pull request! It will be in "open" state until I approve and merge it. 
 
+# next steps
 That's cool but... how do I make my second pull request?
 
 This repo was to get you comfortable with forking, pull requests, and contributing to a stranger's repo. Now that you've done it once, you have an idea of what needs to be done for your second pull request. That one will probably involve more complex changes. 
